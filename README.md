@@ -1,6 +1,8 @@
 # Capstone_Project2-Supermarket_Analysis
 ## Dataset Overview
 
+![Local Image](85098ba509022672227799346e094c5b.jpg)
+
 ### Background Supermarket X 
 Dataset ini mencakup informasi tentang pelanggan dari supermarket X, termasuk data demografis, pembelian produk, promosi yang telah dijalankan dan respons dari pelanggan terhadapnya, serta detail-detail tentang perilaku pembelian dan aktivitas kunjungan pelanggan di situs web supermarket pada tahun 2014.
 
