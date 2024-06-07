@@ -1,4 +1,4 @@
-# Capstone_Project2-Supermarket_Analysis
+# Supermarket Segmentation Analysis
 
 ![Local Image](85098ba509022672227799346e094c5b.jpg)
 
